@@ -1,0 +1,42 @@
+{
+  "name": "Virtual Medical Assistant",
+  "short_name": "VMA",
+  "orientation": "portrait",
+  "icons": [
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+      ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF"
+}
